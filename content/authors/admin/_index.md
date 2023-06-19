@@ -1,6 +1,6 @@
 ---
 bio: My research interests ......
-education:
+
 education:
   courses:
   - course: PhD in Ecology
