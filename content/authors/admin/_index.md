@@ -4,7 +4,7 @@ education:
 education:
   courses:
   - course: PhD in Ecology
-    institution: Deakin University
+    institution: Deakin University, Australia
     year: 2022
   - course: Msc in Ecology and Conservation Biology
     institution: Mongolian National University
