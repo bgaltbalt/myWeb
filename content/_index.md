@@ -164,7 +164,7 @@ sections:
     title: Gallery
   design:
     columns: "1"
-#  id: Gallery
+  id: Gallery
 # - block: collection
 #   content:
 #     filters:
