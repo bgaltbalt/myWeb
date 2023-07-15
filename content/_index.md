@@ -157,6 +157,21 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: blogs
+- block: collection
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - publication
+    text: |-
+      {{% callout note %}}
+      Quickly discover relevant content by [filtering publications](./publication/).
+      {{% /callout %}}
+    title: Recent Publications
+  design:
+    columns: "2"
+    view: citation
+  id: publication  
 - block: markdown
   content:
     subtitle: ""
@@ -176,21 +191,6 @@ sections:
 #     columns: "2"
 #     view: card
 #   id: featured
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
-    text: |-
-      {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
-      {{% /callout %}}
-    title: Recent Publications
-  design:
-    columns: "2"
-    view: citation
-  id: publication
 # - block: collection
 #   content:
 #     filters:
