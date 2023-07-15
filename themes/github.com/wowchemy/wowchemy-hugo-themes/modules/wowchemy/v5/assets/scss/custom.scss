@@ -1,1 +1,8 @@
 // Override this file to add your own SCSS styling.
+
+.avatar {
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+    object-fit: cover;
+}
