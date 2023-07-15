@@ -9167,15 +9167,15 @@ html[dir='rtl'] body {
   position: relative; }
 
 .avatar {
-  width: 270px;
-  height: 270px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto;
   object-fit: cover; }
 
 @media (max-width: 767.98px) {
   .wg-about .avatar {
-    width: 200px;
-    height: 200px; } }
+    width: 150px;
+    height: 150px; } }
 
 .avatar-circle {
   border-radius: 50%; }
@@ -9264,10 +9264,10 @@ ul.ul-edu li .description p.institution {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04), 0 2px 6px rgba(0, 0, 0, 0.04), 0 0 1px rgba(255, 255, 255, 0.96); }
 
 .wg-about-avatar .avatar {
-  width: auto;
-  height: auto;
-  max-width: 225px;
-  max-height: 225px; }
+  width: 150px;
+  height: 150px;
+  max-width: 150px;
+  max-height: 150px; }
 
 .wg-about-avatar #profile .network-icon {
   margin-top: 0.5rem; }
